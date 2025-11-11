@@ -40,7 +40,7 @@ project-root/
 ```bash
 git clone https://github.com/yourname/playwright-api-automation.git
 cd playwright-api-automation
-````
+```
 
 2. **Install dependencies**
 
@@ -103,7 +103,4 @@ npx playwright show-report
 * This framework is scalable, maintainable, and ready for both API and UI automation
 * Supports integration with CI/CD pipelines and report generation
 * Ideal for professional automation testing projects
-
-
-```
 
