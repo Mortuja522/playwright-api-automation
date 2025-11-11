@@ -36,6 +36,7 @@ project-root/
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository**
+
 ```bash
 git clone https://github.com/yourname/playwright-api-automation.git
 cd playwright-api-automation
