@@ -9,6 +9,6 @@ test.describe('GET API Tests', () => {
     expect(response.status()).toBe(200);
 
     const data = await response.json();
-    console.log('Total objects:', data.length);
+    console.log('Total objects:', data.length,data);
   });
 });
