@@ -38,7 +38,7 @@ project-root/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourname/playwright-api-automation.git
+git clone https://github.com/Mortuja522/playwright-api-automation.git
 cd playwright-api-automation
 ````
 
