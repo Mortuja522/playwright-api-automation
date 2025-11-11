@@ -26,9 +26,6 @@ project-root/
 ├── package.json # Node.js project dependencies
 └── README.md # Project documentation
 
-yaml
-Copy code
-
 ---
 
 ## ⚙️ Setup Instructions
