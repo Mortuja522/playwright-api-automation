@@ -40,7 +40,7 @@ project-root/
 ```bash
 git clone https://github.com/yourname/playwright-api-automation.git
 cd playwright-api-automation
-```
+````
 
 2. **Install dependencies**
 
