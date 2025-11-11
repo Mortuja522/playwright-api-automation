@@ -105,11 +105,5 @@ npx playwright show-report
 * Ideal for professional automation testing projects
 
 
-
-## 👤 Author
-
-**Mortuja Morshed**
-QA Automation Engineer | Playwright | API & UI Testing
-
 ```
 
