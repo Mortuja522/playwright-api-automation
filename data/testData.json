@@ -1,0 +1,19 @@
+{
+  "newObject": {
+    "name": "Playwright Test Object",
+    "data": {
+      "year": 2025,
+      "price": 500,
+      "CPU": "Intel i7",
+      "storage": "1TB SSD"
+    }
+  },
+  "updateObject": {
+    "name": "Updated Playwright Object",
+    "data": {
+      "year": 2026,
+      "price": 999,
+      "CPU": "Intel i9"
+    }
+  }
+}

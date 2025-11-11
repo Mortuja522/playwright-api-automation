@@ -1,0 +1,16 @@
+{
+  "name": "api-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {"test": "npx playwright test",
+    "report": "npx playwright show-report"},
+  "keywords": [],
+  "author": "Mortuja Morshed",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0"
+  }
+}
